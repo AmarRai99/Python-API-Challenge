@@ -40,7 +40,7 @@ Open the .gitignore file, and on the first line, type the following code:
 
 
 
-# Adding config.py file.
+Adding config.py file.
 api_keys.py
 
 
