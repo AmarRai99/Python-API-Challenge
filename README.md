@@ -131,7 +131,7 @@ Plot the hotels on top of the humidity heatmap, with each pin containing the Hot
 
 
 
-As final considerations:
+# As final considerations:
 
 You must complete your analysis using a Jupyter notebook.
 You must use the Matplotlib or Pandas plotting libraries.
@@ -141,7 +141,7 @@ Your plots must include labeling aspects like plot title (with date of analysis)
 For max intensity in the heatmap, try setting it to the highest humidity found in the dataset.
 
 
-Hints and Considerations
+# Hints and Considerations
 
 
 The city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook.
