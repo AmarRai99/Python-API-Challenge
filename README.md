@@ -102,6 +102,7 @@ To complete this part of the assignment, you will need to do the following:
 
 Create a heat map that displays the humidity for every city from Part 1, as in the following image:
 
+![image](https://user-images.githubusercontent.com/111756299/212762247-79dfbe2d-c3c2-47d5-94a7-af7f57d0b95e.png)
 
 
 Narrow down the DataFrame to find your ideal weather condition. For example:
@@ -129,6 +130,7 @@ Use Google Places API to find the first hotel for each city located within 5,000
 
 Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
 
+![image](https://user-images.githubusercontent.com/111756299/212762207-ce2e7527-b215-4e98-b67e-0a927e92c972.png)
 
 
 # As final considerations:
