@@ -130,7 +130,8 @@ Use Google Places API to find the first hotel for each city located within 5,000
 
 Plot the hotels on top of the humidity heatmap, with each pin containing the Hotel Name, City, and Country, as in the following image:
 
-![image](https://user-images.githubusercontent.com/111756299/212762207-ce2e7527-b215-4e98-b67e-0a927e92c972.png)
+![image](https://user-images.githubusercontent.com/111756299/212932096-5100c9ac-b782-4025-acec-269742a34a22.png)
+
 
 
 # As final considerations:
